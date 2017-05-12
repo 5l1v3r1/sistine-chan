@@ -9,6 +9,21 @@
 - [ ] Bug 
 - [ ]  Tốc Độ
 
+```
+# Facebook token
+ACCESS_TOKEN = "EAA......" <fanpage accesstoken>
+VERIFY_TOKEN = "random"  <tự chọn>
+
+# ID Admin
+ADMIN = [
+    "696969696969696969"
+]
+
+
+```
+
+![sistine](https://images4.alphacoders.com/831/thumb-350-831336.png)
+
 
 __code được viết bằng ngôn ngữ python__
 
