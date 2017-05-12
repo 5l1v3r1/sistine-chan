@@ -31,7 +31,7 @@ ADMIN = [
 
 ![sistine](https://images4.alphacoders.com/831/thumb-350-831336.png)
 
-__code được viết bằng ngôn ngữ python__
+__Bot được viết bằng ngôn ngữ python__
 
 
 [Author x0lzs3c](https://www.facebook.com/Jizwans)
