@@ -1,0 +1,112 @@
+{
+    "greetings": [
+        [
+            "Arigatou",
+            "どういたしまして~"
+        ],
+        [
+            "ありがとう",
+            "どういたしまして"
+        ],
+        [
+            "Ohayou",
+            "Good morning to you too!"
+        ],
+        [
+            "おはよう",
+            "Ohayou!"
+        ],
+        [
+            "Good morning",
+            "Ohayou!"
+        ],
+        [
+            "Selamat pagi",
+            "Good morning to you too!"
+        ],
+        [
+            "Konnichiwa",
+            "Good afternoon!"
+        ],
+        [
+            "こんにちわ",
+            "Good afternoon!"
+        ],
+        [
+            "Good afternoon",
+            "こんにちわ"
+        ],
+        [
+            "Selamat siang",
+            "Good afternoon~"
+        ],
+        [
+            "Konbanwa",
+            "Good evening!"
+        ],
+        [
+            "こんばんわ",
+            "Good evening!"
+        ],
+        [
+            "Good evening",
+            "こんばんわ"
+        ],
+        [
+            "Selamat sore",
+            "Good evening~"
+        ],
+        [
+            "Oyasumi",
+            "Good night <3"
+        ],
+        [
+            "おやすみ",
+            "Oyasumi~"
+        ],
+        [
+            "Good night",
+            "Oyasumi~"
+        ],
+        [
+            "Selamat malam",
+            "Good night <3"
+        ],
+        [
+            "Itadakimasu",
+            "Have a nice meal!"
+        ],
+        [
+            "いただきます",
+            "Have a nice meal!"
+        ],
+        [
+            "Selamat makan",
+            "Have a nice meal!"
+        ],
+        [
+            "How are you?",
+            "I'm fine, nyan~!"
+        ],
+        [
+            "さようなら",
+            "Good bye!"
+        ],
+        [
+            "Sayonara",
+            "Good bye!"
+        ],
+        [
+            "Good bye!",
+            "Sayonara~"
+        ],
+        [
+            "onegaishimasu",
+            "Onee-chan makasete!"
+        ],
+        [
+            "おねがいします",
+            "Onee-chan makasete!"
+        ]
+    ]
+}
