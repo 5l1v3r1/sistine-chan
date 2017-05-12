@@ -1,11 +1,11 @@
 # Facebook Messenger Chatbot 
-@x0lzs3c :octocat: sistine-chan :lollipop:
+:octocat: Sistine-chan :lollipop:
 
 ![sistine](http://cloud-3.steamusercontent.com/ugc/156905452611990191/8D8E2B6B899765DF54EDA97D4EF2AECF8C324A8C/)
 
 - [x] Truất
-- [x] cute 
-- [x] dễ sử dụng
+- [x] Cute 
+- [x] Dễ sử dụng
 - [ ] Bug 
 - [ ]  Tốc Độ
 
