@@ -21,9 +21,15 @@ ADMIN = [
 
 
 ```
+## Cài Đặt
+
+1. Edit lại file ```sischan/config.py```
+2. Sistine-chan sử dụng Redis cho database. Redis có thể download tại https://redis.io/download port mặc định là 6379 
+3. Nên dùng virtualenv , nhanh gọn nhất là ```pip install -r requirements.txt```
+4. Sử dụng lệnh ``` python setup.py install ``` để khởi động sistine-chan
+
 
 ![sistine](https://images4.alphacoders.com/831/thumb-350-831336.png)
-
 
 __code được viết bằng ngôn ngữ python__
 
