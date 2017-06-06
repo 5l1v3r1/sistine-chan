@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 
 # Facebook token
-ACCESS_TOKEN = "EAAEaqi4MPXIBAGYlLlLuDUqaBJBGTbve8ZBhmPfU9kUYilNa7mTO7ZBpZC7ZAcUMsIKGpZCznZCKUQNU9IUqvicyx5ztuu24HZCz3rjnE0xn53HYd1T5FUHx7qFZA5uxx1QkcY6XZCjFHKQE3kApC2aM3KePHURFrrZCKc7LJmbKy14QZDZD"
+ACCESS_TOKEN = "EAASZCjRMrlZCsBABfDCvZAIC5lFPgxGq3F4rvRQchXOpyH5BukyabLuXapjq9mU3z9w35afgZAgwKiGPKABydmFRZAzrEsZCLG6spIPrF73sH9ZAigDpsWdo5vdDT0QyuluLLyLjEHFfYyCwBaoFu6HYfLBWkkTlaRsA3Ht4I0ckAZDZD"
 VERIFY_TOKEN = "x0lzs3c"  # Set this value by yourself
 
 # Recipient ID for Admin, hardcoded in configuration
 ADMIN = [
-    "219359928537191"
+    "100009205764028"
 ]
 
 # Chatbot storage adapter
